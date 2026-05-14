@@ -1,0 +1,1 @@
+**Kimiko will blast Homelander, but Homelander’s V gene will activate and then he will kill Kimiko. He will rip her apart, but since Kimiko has the virus, Homelander will hallucinate and die.**

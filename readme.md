@@ -1,1 +1,1 @@
-**Kimiko will blast Homelander, but Homelander’s V1  will be deactivated . He will rip her apart, but since Kimiko has the virus, Homelander will hallucinate and die.**
+**Kimiko will blast Homelander, and Homelander’s V1  will be deactivated . He will rip her apart, but since Kimiko has the virus, Homelander will hallucinate and die.**

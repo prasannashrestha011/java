@@ -1,3 +1,4 @@
+//WAP to print 1-10 every 1 second using thread.
 public class L7Q1 {
     public static void main(String[] args) {
         Thread t = new Thread(() -> {

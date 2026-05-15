@@ -1,3 +1,4 @@
+//WAP to count vowels in a string.
 import java.util.*;
 
 public class L8Q3 {

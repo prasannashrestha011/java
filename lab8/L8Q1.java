@@ -1,3 +1,4 @@
+//WAP to sort 5 city names alphabetically.
 import java.util.*;
 
 public class L8Q1 {

@@ -1,3 +1,4 @@
+//WAP to sum array values whose last digit is 1.
 import java.util.*;
 
 public class L3Q1 {

@@ -1,3 +1,4 @@
+//WAP to divide two ints; handle ArithmeticException.
 import java.util.*;
 
 public class L6Q1 {

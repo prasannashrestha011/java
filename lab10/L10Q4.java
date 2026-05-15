@@ -1,3 +1,4 @@
+//WAP to delete record by id using GUI.
 import javax.swing.*;
 import java.awt.*;
 import java.sql.*;

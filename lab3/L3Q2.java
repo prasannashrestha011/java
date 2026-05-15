@@ -1,3 +1,4 @@
+//WAP to find greatest and smallest in array.
 import java.util.*;
 
 public class L3Q2 {

@@ -1,3 +1,4 @@
+//WAP to reverse a word and check palindrome.
 import java.util.*;
 
 public class L8Q2 {

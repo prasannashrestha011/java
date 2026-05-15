@@ -1,3 +1,4 @@
+//WAP to find area of rectangle using class Area.
 import java.util.*;
 
 public class L4Q1 {

@@ -1,3 +1,4 @@
+//WAP to print diagonal elements of a matrix.
 import java.util.*;
 
 public class L3Q4 {

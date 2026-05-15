@@ -1,3 +1,4 @@
+//WAP to sort array in ascending order.
 import java.util.*;
 
 public class L3Q3 {

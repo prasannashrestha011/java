@@ -1,3 +1,4 @@
+//WAP to print numbers 100-200 divisible by 5.
 public class L2Q1 {
     public static void main(String[] args) {
         for (int i = 100; i <= 200; i++) {

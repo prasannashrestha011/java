@@ -1,3 +1,4 @@
+//WAP to find sum of cubes of three numbers.
 import java.util.*;
 
 public class L1Q2 {

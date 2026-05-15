@@ -1,3 +1,4 @@
+//WAP to find sum of first N natural numbers.
 import java.util.*;
 
 public class L2Q2 {

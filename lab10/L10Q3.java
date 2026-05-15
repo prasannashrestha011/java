@@ -1,3 +1,4 @@
+//WAP to save id, name, faculty to DB.
 import javax.swing.*;
 import java.awt.*;
 import java.sql.*;

@@ -1,3 +1,4 @@
+//WAP to store and show employee info.
 import java.util.*;
 
 public class L4Q2 {

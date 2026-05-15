@@ -1,3 +1,4 @@
+//WAP to use Student getters/setters with two objects.
 
 public class L4Q4 {
     public static void main(String[] args) {

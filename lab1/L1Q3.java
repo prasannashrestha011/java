@@ -1,3 +1,4 @@
+//WAP to find square root of a number.
 import java.util.*;
 
 public class L1Q3 {

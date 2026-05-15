@@ -1,3 +1,4 @@
+//WAP to show dialog on button click.
 import javax.swing.*;
 import java.awt.*;
 

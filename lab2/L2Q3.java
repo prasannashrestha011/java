@@ -1,3 +1,4 @@
+//WAP to reverse a number.
 import java.util.*;
 
 public class L2Q3 {

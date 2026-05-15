@@ -1,3 +1,4 @@
+//WAP to print primes between 100 and 200.
 public class L2Q5 {
     public static void main(String[] args) {
         for (int n = 100; n <= 200; n++) {

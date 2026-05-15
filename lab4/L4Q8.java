@@ -1,3 +1,4 @@
+//WAP to show inheritance with Student, Test, Result.
 import java.util.*;
 
 public class L4Q8 {

@@ -1,3 +1,4 @@
+//WAP to print bird and animal names using threads.
 public class L7Q3 {
     public static void main(String[] args) {
         String[] birds = { "Sparrow", "Parrot", "Eagle", "Pigeon", "Crow" };

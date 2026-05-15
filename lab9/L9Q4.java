@@ -1,3 +1,4 @@
+//WAP to serialize object to file and display.
 import java.io.*;
 
 public class L9Q4 {

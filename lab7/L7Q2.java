@@ -1,3 +1,4 @@
+//WAP to print factors of 20 and 25 using threads.
 public class L7Q2 {
     public static void main(String[] args) {
         Thread t1 = new Thread(() -> showFactors(20, 1000));

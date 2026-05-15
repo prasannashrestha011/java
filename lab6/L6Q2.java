@@ -1,3 +1,4 @@
+//WAP to handle ArrayIndexOutOfBoundsException.
 public class L6Q2 {
     public static void main(String[] args) {
         int[] arr = { 1, 2, 3 };

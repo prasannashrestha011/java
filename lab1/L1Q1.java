@@ -1,3 +1,5 @@
+
+//WAP to find area of a circle from radius.
 import java.util.*;
 
 public class L1Q1 {
